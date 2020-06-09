@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+}
+.wraper{
+	background-color: #9980FA;
+	width:750px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 80px;
+	margin-top: 40px;
+
+}
+
+.wraper h1{
+	text-align: center;
+	margin-bottom: 25px
+	
+}
+
+.wraper p{
+	text-align: center;
+	margin-bottom: 25px;
+}
